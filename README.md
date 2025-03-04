@@ -3,7 +3,7 @@
 Orbital Harmony is a simple and visually captivating simulation of the Earth and Moon orbiting the Sun. Built using HTML5 Canvas and JavaScript, this project demonstrates the beauty of celestial mechanics in a responsive and interactive way.
 
 ![Orbital Harmony Screenshot](https://repository-images.githubusercontent.com/942161005/cad36074-67e2-4340-a15b-fb3cac3a9f80)  
-*(Sun-Earth-Moon Simulation)*
+*Sun-Earth-Moon Simulation*
 
 ## Live Demo
 
