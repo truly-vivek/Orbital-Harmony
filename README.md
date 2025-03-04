@@ -8,7 +8,7 @@ Orbital Harmony is a simple and visually captivating simulation of the Earth and
 ## Live Demo
 
 Check out the live demo of the project here:  
-[Orbital Harmony Live Demo](https://orbitalharmony.web.app/)
+[Orbital Harmony Live Demo](https://orbital-harmony.web.app/)
 
 ## Features
 
